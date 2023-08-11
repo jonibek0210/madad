@@ -328,7 +328,7 @@ const Cases: React.FC<CasesProps> = () => {
                            </div>
                         </div>
                         <div className="w-3/5 max-sm:w-full h-full relative max-sm:flex justify-center">
-                           <div className="max-w-[527.302px]  max-sm:w-[246px] w-full absolute max-lg:relative -bottom-[370px] right-0 max-lg:-top-10 max-sm:top-0">
+                           <div className="max-w-[527.302px]  max-sm:w-[246px] w-full absolute max-lg:relative -bottom-[350px] right-0 max-lg:-top-10 max-sm:top-0">
                               <Image
                                  className="w-full h-full"
                                  src={"/images/cases/case-lewor2.png"}
@@ -483,7 +483,7 @@ const Cases: React.FC<CasesProps> = () => {
                            </div>
                         </div>
                         <div className="w-3/5 max-sm:w-full h-full relative max-sm:flex justify-center">
-                           <div className="max-w-[527.302px] max-xl:max-w-[500px] max-sm:w-[246px] w-full absolute max-lg:relative -bottom-[370px] right-0 max-xl:-top-80 max-lg:-top-10 max-sm:top-0">
+                           <div className="max-w-[527.302px] max-xl:max-w-[500px] max-sm:w-[246px] w-full absolute max-lg:relative -bottom-[350px] right-0 max-xl:-top-80 max-lg:-top-10 max-sm:top-0">
                               <Image
                                  className="w-full h-full"
                                  src={"/images/cases/case-lewor2.png"}

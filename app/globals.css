@@ -39,3 +39,13 @@ li {
 .overflowY {
    overflow-y: scroll !important;
 }
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+   --swiper-theme-color: #000 !important;
+   --swiper-navigation-size: 25px !important;
+}
+
+:root {
+   --swiper-theme-color: #000 !important;
+}

@@ -51,7 +51,7 @@ const Contacts: React.FC<ContactsProps> = () => {
                      </form>
                   </div>
 
-                  <div className="max-sm:hidden flex flex-col items-end justify-end text-white">
+                  <div className="max-sm:hidden flex flex-col items-start justify-end text-white">
                      <div className="flex gap-3 mb-2">
                         <div className="flex items-center justify-center p-1 rounded-full bg-white">
                            <BsFillTelephoneFill size={13} color="black" />
@@ -62,13 +62,13 @@ const Contacts: React.FC<ContactsProps> = () => {
                         <div className="flex items-center justify-center p-1 rounded-full bg-white">
                            <BsInstagram size={13} color="black" />
                         </div>
-                        <p>+998 (90) 4566949</p>
+                        <p>madad_agency</p>
                      </div>
                      <div className="flex gap-3">
                         <div className="flex items-center justify-center p-1 rounded-full bg-white">
                            <AiOutlineMail size={15} color="black" />
                         </div>
-                        <p>+998 (90) 4566949</p>
+                        <p>madadagency22@gmail.com</p>
                      </div>
                   </div>
                </div>
